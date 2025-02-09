@@ -1,0 +1,119 @@
+Kitara on kielisoitin, jota soitetaan näppäilemällä kieliä, joiden ääntä akustisessa kitarassa vahvistaa kaikupohjana toimiva runko ja sähkökitarassa vahvistin. Kieliä on yleensä kuusi, ne on viritetty soimaan eri taajuudella, ja ne ovat tavallisimmin terästä tai nailonia. Soittaja voi näppäillä kieliä esimerkiksi sormillaan tai plektralla. Äänen korkeus riippuu paitsi kielestä, myös siitä, miltä kohdalta soittaja painaa kieltä otelautaa vasten. Soinnut saadaan aikaan soittamalla kerrallaan useampaa kuin kahta eri taajuudella soivaa kieltä. Kitara on pääsoitin monessa musiikkityylissä.
+
+Historia
+
+Nykykitaraa muistuttavat soittimet ovat olleet suosittuja jo 5 000 vuoden ajan, ehkä kauemminkin. Kitara polveutunee muinaisessa Keski-Aasiassa käytetyistä soittimista, joista käytettiin nimeä cithara. Susan kaupungista Iranista on löydetty patsaita ja veistoksia, joissa esiintyy kitaran kaltaisia soittimia. Sana kitara juontuu espanjan kielen sanasta guitarra, tämä puolestaan arabian sanasta qīṯārah, tämä aramean sanasta qipārā, joka tulee kreikan kielen sanasta kithara (κιθάρα).[1] Sana on todennäköisesti yhdistynyt sanskritin sanasta sangeet, joka tarkoittaa musiikkia, sekä persian kielen sanasta tar, joka tarkoittaa kieltä.
+
+Arabian kielen sana qīṯārah tarkoittaa luutun kaltaisia soittimia, jotka edelsivät nykyaikaista länsimaista kitaraa. Kun maurit toivat Iberiaan kitaroita, otettiin espanjan kielen sana guitarra käyttöön.[2]
+
+Espanjalainen vihuela on todennäköisesti varhaisen kitaran ja nykyisen kitaran välimuoto. Vihuelan viritys on samankaltainen kuin luutun, ja sen pienen rungon muoto muistuttaa nykyistä kitaraa. Vihuelan muotoa on kuitenkin ehkä vain pyritty eriyttämään, niin että eurooppalainen luuttu ei näyttäisi maurilaiselta ud-soittimelta. Vihuelaa oli kahdenlaista: vihuela de arco (jousella soitettava sellon sukulainen) ja vihuela de mano, josta myöhemmin kehittyi kitara.
+
+Varhaisissa kitaroissa oli useimmiten kaksoiskielet, eli yhtä ääntä varten oli kaksi kieltä. Kielien määrä ja viritys vaihtelivat suuresti ennen kuin ne vakiintuivat nykyiseen kuuteen yksinäiseen kieleen. Ensimmäisen kuusikielisen kitaran rakensi vuonna 1779 Gaetano Vinaccia Napolissa, Italiassa. Vinaccia-suvun tiedetään myös kehittäneen mandoliinin.
+
+George Beauchamp patentoi sähkökitaran vuonna 1936. Hän oli myös mukana perustamassa Rickenbacker-yhtiötä, joka on vanhimpia sähkökitaranvalmistajia. Kuitenkin vasta 1940-luvun lopulla perustettu Danelectro valmisti sähkökitaroita suurelle asiakaskunnalle.
+
+Leo Fender ja Les Paul keksivät 1940-luvulla itsenäisesti lankkusähkökitaran. Molemmat huomasivat, että jos mikrofonit kiinnitetään kiinteään lankkuun eikä kaikukoppaan, saadaan äänen kiertoilmiö eliminoitua. Leo Fender suunnitteli Fender Telecasterin ja Fender Stratocasterin, kun taas Gibson Les Paul on Les Paulin suunnittelema. Kaikki kolme ovat sähkökitaran klassikkomalleja.
+
+Kitaroita käytetään nykyisin monissa eri musiikkityyleissä. Yleisesti kitara tunnetaan taidemusiikissa sooloinstrumenttina ja pääinstrumenttina blues-, jazz-, rock- ja metallimusiikissa.
+
+Kitarasta on 1900-luvun kuluessa tullut yksi suosituimmista soittimista, koska sen alkeet on yleisesti ottaen helppo opetella. Toisaalta taas kitara on hyvin monipuolinen soitin jonka soittamisen haasteellisuutta on kehitetty erittäin pitkälle. Kitaroita on myös bassoversioina.
+
+Toiminta
+
+Kitaran tärkeimmät osat ovat runko, kaula ja kielet. Kaulan etupuolelle on kiinnitetty otelauta ja kielet ovat sen suuntaiset. Painettaessa kieliä otelautaa vasten kielen värähtelevä osuus lyhenee ja näin värähtelytaajuus muuttuu. Yleisesti kitaristit käyttävät yhtä kättä kielen soittamiseen (näppäilemiseen) ja toista kättä käytetään painamaan kieltä otelautaa vasten. Kieliä voidaan näppäillä sormin, plektralla, soittolehdellä ja jopa jaloilla, kuten esimerkiksi Mark Goffeney tekee. Jos näpäytetään yhtä kieltä kerrallaan, syntyvää ääntä kutsutaan säveleksi. Jos useampi kuin kaksi kieltä soi kerrallaan eri taajuuksilla, kyseessä on sointu.
+
+Kitaran kieli tuottaa värähdellessään ääntä. Jotta syntynyt ääni olisi riittävän voimakas, ääntä vahvistetaan – joko akustisesti tai sähköisesti. Kitarat jaetaan tällä perusteella kahteen ryhmään, akustisiin kitaroihin ja sähkökitaroihin.
+
+Akustisissa kitaroissa kielen värähtely johdetaan tallan välityksellä kitaran kanteen. Kannen suuri pinta-ala liikuttaa ilmaa tehokkaasti, jolloin kielten värähtelystä syntyy voimakkaampi ääni. Kitaran runko on rakenteeltaan ontto ja se toimii kaikupohjana. Kaikukopan resonanssitaajuus on viritetty vastaamaan kitaran kielten värähtelyä, useimmiten välille Fis–A.
+
+Sähkökitaroissa kielten värähtely muutetaan sähkösignaaliksi mikrofonilla. Sähkösignaali johdetaan vahvistimeen, jossa signaali vahvistetaan, ja sitten kaiuttimeen, joka muuttaa sähkösignaalin ääniaalloiksi. 
+
+Osat
+
+Tyypillisen akustisen kitaran ja sähkökitaran osat numeroituna.
+
+1. Lapa
+2. Satula
+3. Virityskoneisto
+4. Otelaudan nauhat
+5. Kaularauta
+6. Otelaudan nauhamerkit,
+otelautaupotukset
+7. Kaula ja otelauta
+8. Kaulaliitos
+9. Runko (sähkökitarassa myös lankku tai body)
+10. Mikrofonit
+11. Elektroniikka
+12. Talla
+13. Plektrasuojus
+14. Takakansi
+15. Koppa tai mieluummin kaikukoppa
+16. Sivut tai mieluummin sarjat
+17. Kaikukopan aukko
+18. Kielet
+19. Tallapala
+20. Otelauta
+	
+Lapa
+
+Lapa sijaitsee kitaran kaulan päässä, kauimpana rungosta. Lapaan on kiinnitetty virityskoneisto, jonka nuppeja kääntämällä voidaan säätää kielten kireyttä ja siten sävelkorkeutta. Yleensä virityskoneiston nuppeja on kolme kummallakin puolella lapaa, mutta monissa sähkökitaroissa kaikki nupit ovat samalla puolella (esimerkiksi Fender Stratocaster. Myös muita sommitelmia on olemassa. Joissakin kitaroissa, kuten Steinberger, taas ei ole lapaa laisinkaan, vaan virityskoneisto on sijoitettu jonnekin muualle, kuten runkoon tai satulaan.
+
+Satula
+
+Satula on lavan ja otelaudan liitoskohdassa sijaitseva, yleensä puusta, muovista, grafiitista, luusta tai corianista valmistettu pieni liuska. Sen urat ohjaavat kielet otelaudalle. Vääränlainen satula voi aiheuttaa viritysongelmia tai kielten särinää.
+
+Kaula
+
+Kaula on pitkä, runkoon kiinnitettävä puinen kappale, johon otelauta, kaularauta ja lapa virityskoneistoineen kiinnitetään. Kaula valmistetaan useimmiten jalopuusta tai lehtipuusta, useimmiten eri puusta kuin kaulan keskiosan muodostava otelauta. Kaulan voi kiinnittää kitaran runkoon sijoittamalla kaulan rungon lävitse, liimaamalla tai pulttikiinnityksellä. Sähkökitaroissa käytetään kaikkia kiinnitystapoja, mutta akustisissa kitaroissa kaula kiinnitetään lähes aina liimalla.
+
+Kielet
+
+    Pääartikkeli: Kieli (musiikki)
+
+Nykymuotoisessa kitarassa on yleensä kuusi kieltä, mutta myös muun muassa seitsemän-, kahdeksan-, kymmen- ja kaksitoistakielisiä kitaroita valmistetaan. Kielet ovat yleensä terästä tai nailonia. Joskus voidaan käyttää pronssia (fosforipronssia) kielten päällysteenä.
+
+Otelauta
+
+Otelauta on puukappale, johon on upotettu metallisia nauhoja eli otenauhoja ja joka muodostaa kitaran kaulan keskiosan. Otelaudat valmistetaan yleensä ruusupuusta, eebenpuusta, vaahterasta ja joskus grafiitista. Klassisissa kitaroissa otelauta on laakea, sähkökitaroissa ja monissa akustisissa kitaroissa hiukan kaareva. Otelaudan kaarevuus mitataan otelaudan säteen mukaan, joka on sen hypoteettisen ympyrän säde, josta otelaudan pinta muodostaa lohkon. Mitä pienempi otelaudan säde on, sitä kaarevampi otelauta on. Kielen painaminen kiinni otelautaan lyhentää sen kielen osan pituutta, joka värähtelee ja näin ollen korottaa syntyvän sävelen sävelkorkeutta (vapaana soiva kieli värähtelee tallasta satulaan, mutta jos kieltä painetaan jostain kohtaa, se värähtelee vain tallan ja painetun nauhan välisellä etäisyydellä).
+
+Kansi
+
+Kitaran kannen sanotaan olevan sen tärkein elementti, joka vaikuttaa sointiin muita osia enemmän. Legendan mukaan espanjalainen kitaranrakentaja valmisti koko muun kitaran kaulaa lukuun ottamatta paperimassasta mutta valmisti kannen puusta, ja monet kitaristit totesivat soittimen soivan hienosti ja ihmettelivät sen hyvää sointia.[3]
+
+Virittäminen
+
+Kitarassa voidaan käyttää useita eri virityksiä, mutta yleisin ja perinteisin viritys E-A-D-G-H(B)-E on hyvä kompromissi, joka mahdollistaa helpot sormitukset useille soinnuille ja mahdollistaa yleisimpien sävelasteikkojen ja sointukulkujen soittamisen suhteellisen helposti.
+
+Yleisimmässä virityksessä kielet on viritetty seuraavalla tavalla:
+
+    kuudes (matalin) kieli: suuri E (pieni tredesimi keski-C:n alapuolella) 82,4 Hz
+    viides kieli: suuri A (pieni desimi keski-C:n alapuolella) 110 Hz
+    neljäs kieli: pieni d (pieni septimi keski-C:n alapuolella) 146,8 Hz
+    kolmas kieli: pieni g (puhdas kvartti keski-C:n alapuolella) 196,0 Hz
+    toinen kieli: pieni h (pieni sekunti keski-C:n alapuolella) 246,9 Hz
+    ensimmäinen kieli: yksiviivainen e1 (suuri terssi keski-C:n yläpuolella) 329,6 Hz
+
+E-A-D-G-H-E-vireessä viereisten kielten välinen intervalli on kvartti, paitsi toisen ja kolmannen kielen välillä suuri terssi. Tämän vuoksi kielet voidaan virittää suhteessa toisiinsa siten, että kielten 2, 4, 5 ja 6 viides väli on sama kuin viereinen avoin kieli, ja kielen 3 neljäs väli on sama kuin avoin toinen kieli.
+
+Avoin viritys
+
+Avoin viritys tarkoittaa sitä, että kitara voidaan virittää monilla eri tavoilla erilaisten sointujen aikaansaamiseksi. Käytännössä tämä tarkoittaa sitä, että yleisin viritys E-A-D-G-H-E voidaan vaihtaa esimerkiksi D-G-C-F-A-D-viritykseksi. Ensiksi mainitulla virityksellä saadaan aikaan Em11-sointu ja toisella Dm11-sointu.
+
+Vaihtoehtoisia virityksiä
+
+Alla on muutamia vaihtoehtoisia virityksiä, joita kitarassa käytetään.
+
+    Es-As-Des-Ges-B-Es (Dis-Gis-Cis-Fis-Ais-Dis). Tässä virityksessä kaikki kielet on viritetty puoli sävelaskelta normaalivirettä alemmaksi. Tätä kutsutaan joskus myös "jenkkiviritykseksi". Sitä ovat käyttäneet monet hard rock- ja heavy metal -yhtyeet, esimerkiksi Van Halen, Nirvana, Guns N' Roses, Megadeth, Sonata Arctica, KISS ja Slayer.
+    D-G-C-F-A-D. Kaikki kielet on viritetty kokosävelaskeleen normaalivirettä alemmaksi. Tämä viritys on suosittu raskaimmissa äärimetallimusiikin lajeissa, kuten death metallissa.
+    C-G-C-F-A-D. Kuin edellinen, mutta matalin kieli on pudotettu vielä yhden koko sävelaskeleen alemmas. Saa aikaan vielä matalamman ja tuhdimman soundin kuin yllä oleva viritys.
+    Pudotettu D: D-A-D-G-H-E: Ala-E-kieli alennettu D:ksi. Tekee voimasointujen soittamisen yhdellä sormella mahdolliseksi, niin kuin yllä oleva viritys. Monien rock-yhtyeiden käytössä, mutta yleinen myös klassisessa musiikissa.
+    Avoin E: E-H-E-Gis-H-E Tällä virityksellä saadaan aikaan avoimilla kielillä E-sointu.
+    Avoin G: D-G-D-G-H-D: Kummatkin E-kielet alennettu D:ksi ja A-kieli G:ksi. Tällä virityksellä saadaan aikaan avoimilla kielillä G-sointu. Muun muassa Keith Richardsin käyttämä. Yleinen myös bluesissa. Venäläinen 7-kielinen kitara viritetään avoimeen G-viritykseen. Avoimella G-virityksellä septimisoinnut saadaan hyvin teräviksi.
+    Avoin D: D-A-D-Fis-A-D: Kummatkin E-kielet alennettu D:ksi, H-kieli alennettu A:ksi ja G-kieltä alennettu yksi puolisävelaskel Fis:ksi. Tällä virityksellä saadaan aikaan D-sointu. Erityisesti slide-kitaristien suosiossa.
+    Subdominantti-D: D-A-D-G-A-D: Kuin yllä, mutta ilman 3. kielen alennusta. Käytetään muun muassa kelttiläisessä musiikissa sekä rockissa (esimerkiksi Jimmy Page on käyttänyt tätä).
+    C-G-C-G-C-E: E-, D- ja H-kieli viritetty C:ksi ja A-kieli G:ksi. Hyvin matalalle viritetty kuudes kieli tekee kitaran soinnista voimakkaan ja syvän.
+    Täyskvarttiviritys E-A-D-G-C-F, jossa kaikki kielet viritetään puhtaisiin kvartteihin. Tämä helpottaa melodioiden soittoa huomattavasti (samalla sormituksella saadaan kaksi oktaavia), mutta sointujen soittaminen vaikeutuu, sillä monet soinnut joudutaan tällöin soittamaan barré-sointuina. Mahdollistaa voimasointujen soittamisen käänteisinä kvartteina miltä tahansa kielipareilta.
+    1½ sävelaskelta alaspäin (Cis-Fis-H-E-Gis-Cis). Melko harvinainen vire. Esimerkiksi Black Sabbath soittaa kappaleen Children of The Grave tällä vireellä.
+
+Kitaran matalaäänisimmissä viritysasteissa matalin ääni on H tai jopa A, joka on oktaavin matalampi kuin perusvirityksen viides kieli A. Näitä virityksiä ovat esimerkiksi H-Fis-H-E-Gis-Cis (eng. "B drop", huomaa, että englanniksi B:ksi kutsuttu nuotti on suomeksi H) tai B-F-B-Es-G-C ("B♭ drop"), joita käytetään enimmäkseen modernissa metallimusiikissa. Virityksen etuna on matalien rekistereiden käyttömahdollisuus, mutta haasteena on vireen säilyminen. Matalavireisiin ja baritonikitaroihin asennetaankin usein tavallista paksummat kielet. Näitä matalammat viritysasteet alkavat kuulostaa bassokitaralta. 
+
