@@ -3,12 +3,12 @@
 WMK-kurssin projektityö
 
 Aihe: Kitara  
-Kohderyhmä: kitaransoittoon tutustuvat aikuiset  
-Kaikki tekstisisältö on joko suoraan kopioitu suomenkielisen Wikipedian artikkeleista, tai Google Translatella käännetty englanninkielisestä Wikipediasta. Kuvat ja audiot ovat joko public domainia, Wikimediasta, tai Freepik.com:sta. Tekijänoikeudet tulevat tarkemmin merkityksi html-sivuille.
+Kohderyhmä: Kitaransoittoon tutustuvat aikuiset  
+Tekijänoikeudet: Kaikki tekstisisältö on joko suoraan kopioitu suomenkielisen Wikipedian artikkeleista, tai Google Translatella käännetty englanninkielisestä Wikipediasta. Kuvat ja audiot ovat joko public domainia, Wikimediasta, tai Freepik.com:sta. Tarkemmat tekijänoikeudet tulevat html-sivuille.
 
 Materiaali:
 
-• Tekstit
+• Tekstit, juurikansio
 
 - Johdanto/esittely: yleistä kitarasta: kitara.txt
 - Alateemat:
