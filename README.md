@@ -4,16 +4,19 @@ WMK-kurssin projektityö
 
 Aihe: Kitara  
 Kohderyhmä: kitaransoittoon tutustuvat aikuiset  
-Kaikki tekstisisältö on joko suoraan kopioitu suomenkielisen Wikipedian artikkeleista, tai Google Translatella käännetty englanninkielisestä Wikipediasta. Kuvat ja audiot ovat joko public domainia, Wikimediasta, tai Freepik.com:sta. Linkkien takaa löytyvien kappaleiden tekijänoikeuksia ei ole käsitelty.
+Kaikki tekstisisältö on joko suoraan kopioitu suomenkielisen Wikipedian artikkeleista, tai Google Translatella käännetty englanninkielisestä Wikipediasta. Kuvat ja audiot ovat joko public domainia, Wikimediasta, tai Freepik.com:sta. Tekijänoikeudet tulevat tarkemmin merkityksi html-sivuille.
 
-Johdanto/esittely: yleistä kitarasta  
-Alateemat:
+Materiaali:
 
-- erilaiset kitarat
-- erilaiset soittotekniikat
-- esimerkkejä kitarasävellyksistä
+• Tekstit
 
-Materiaali:  
+- Johdanto/esittely: yleistä kitarasta: kitara.txt
+- Alateemat:
+  - erilaiset kitarat: kitaratyypit.txt
+  - erilaiset soittotekniikat: soittotekniikat.txt
+  - esimerkkejä kitarasävellyksistä: kappaleet.txt
+  - Yhteystiedot: yhteystiedot.txt
+
 • Kuvat, media-kansio
 
 - taustakuva 100 % bg100p_950.jpg
@@ -30,11 +33,3 @@ Materiaali:
 - rock, linkitetty audio:  
    ▪ Sweet Home Alabama, Lynyrd Skynyrd, https://youtu.be/RrmWFjnAP2E  
    ▪ The Great Southern Trendkill, Pantera, https://www.youtube.com/watch?v=3W0Gh-rFg70
-
-• Tekstit
-
-- Yleistä kitarasta: kitara.txt
-- Kitaramallit: kitaratyypit.txt
-- Soittotekniikat: soittotekniikat.txt
-- Tunnettuja sävellyksiä: kappaleet.txt
-- Yhteystiedot: yhteystiedot.txt
