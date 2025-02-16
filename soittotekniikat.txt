@@ -1,8 +1,9 @@
-
+Kitaransoittotekniikoita
 
 Näppäily (kitara)
 
 Näppäily (engl. fingerpicking, fingerstyle) on kitaran tai muun kielisoittimen (kuten banjon tai basson) soittotekniikka, jossa kieliä näppäillään sormenpäillä tai kynsillä. Näppäilytyyliä käytetään laajalti esimerkiksi klassisen musiikin soittamiseen kielisoittimilla. Myös monet jazz-kitaristit ovat käyttäneet näppäilytekniikkaa, esimerkiksi Wes Montgomery, Joe Pass ja myöhemmin englantilainen Martin Taylor. Rock-musiikissa näppäily on harvinaisempaa kuin plektralla soittaminen, vaikka poikkeuksia toki esiintyy (esimerkiksi Jeff Beck, Lindsey Buckingham ja Mark Knopfler).
+
 Sisällys
 
     1 Erilaisia näppäilytyylejä
@@ -41,8 +42,6 @@ Tremololla tarkoitetaan yhden sävelen toistamista hyvin nopeasti. Näppäilysoi
 Slide-kitara
 
 Slide-kitaralla viitataan kitaransoittotyyliin, jossa kitaristi pitää otelaudanpuoleisessa kädessään putkea (tai muuta esinettä), joka määrää äänenkorkeuden, sen sijaan, että nuotti painettaisiin otelaudalta sormella.
-
-Sisällys
 
     1 Soittotekniikka
     2 Blues

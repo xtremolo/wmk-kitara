@@ -1,12 +1,6 @@
-Types
-
-Guitar collection in Museu de la Música de Barcelona
-
-The Guitar Player (c. 1672), by Johannes Vermeer
+Tyypit
 
 Kitarat jaetaan usein kahteen pääluokkaan: akustisiin ja sähkökitaroihin. Kummassakin luokassa on edelleen alaluokkia, joita on lähes loputtomasti ja jotka kehittyvät jatkuvasti. Esimerkiksi sähkökitara voidaan ostaa kuusikielisenä mallina (yleisin malli) tai seitsen- tai kaksitoistakielisenä versiona. Instrumentin yleinen muotoilu, sisäinen rakenne ja komponentit, puulaji tai -lajit, metalliosat ja elektroniset ominaisuudet kaikki lisäävät alaluokkien runsauden luonnetta ja sen ainutlaatuisia tonaalisia ja toiminnallisia ominaisuuksia.
-
-__(Guitars are often divided into two broad categories: acoustic and electric guitars. Within each category, there are further sub-categories that are nearly endless in quantity and are always evolving. For example, an electric guitar can be purchased in a six-string model (the most common model) or in seven- or twelve-string formats. An instruments overall design, internal construction and components, wood type or species, hardware and electronic appointments all add to the abundant nature of sub-categories and its unique tonal & functional property.)
 
 Acoustic
 
