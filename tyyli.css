@@ -21,3 +21,21 @@ hr {
 .nav-button-line {
   border-bottom: 25px solid #f7bf55;
 }
+
+.box {
+  height: 80%;
+}
+
+@media only screen and (max-width: 600px) {
+  .box {
+    background-image: none;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .box {
+    background-image: url("../bg6090p_JesseNabers-6.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+}
