@@ -17,7 +17,7 @@ Materiaali:
   - esimerkkejä kitarasävellyksistä: kappaleet.txt
   - Yhteystiedot: yhteystiedot.txt
 
-• Kuvat, media-kansio
+• Kuvat, html/media-kansio
 
 - taustakuva 100 % bg100p_950.jpg
 - isompi kuva 60-90 % koko ruudun pinta-alasta bg6090p_JesseNabers-6.JPG
@@ -25,7 +25,7 @@ Materiaali:
 - pieni kuva 10-30 % koko ruudun pinta-alasta 1030p_Electric_guitar_parts.jpeg
 - pieni kuva linkki link_6342.jpg
 
-• Multimediaelementit, media-kansio
+• Multimediaelementit, html/media-kansio
 
 - klassinen, upotettu audio:  
   ▪ Pachelbel\_-_Canon_in_D_major,\_P.\_37\_(Guitar).ogg  
