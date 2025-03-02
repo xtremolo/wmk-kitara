@@ -90,6 +90,12 @@ a {
   float: right;
 }
 
+.img-link {
+  border-style: solid;
+  border-color: #f7bf55;
+  border-width: 5px;
+}
+
 /* TODO: korrekti taustakuva, bg6090p muuten vaan sen päälle index.html:ään */
 @media only screen and (max-width: 600px) {
   /* .box: index.html */
