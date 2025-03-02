@@ -93,22 +93,27 @@ a {
 /* TODO: korrekti taustakuva, bg6090p muuten vaan sen päälle index.html:ään */
 @media only screen and (max-width: 600px) {
   /* .box: index.html */
-  .box {
-    background-image: none;
+  /* .box */
+  #front-kitara {
+    src: url("./media/bg6090p_JesseNabers-6_crop600.jpg");
+    /*     background-image: url("./media/bg6090p_JesseNabers-6_crop600.jpg");
+    background-repeat: no-repeat; */
   }
 }
 
 @media only screen and (min-width: 600px) {
-  /*.box,*/
+  /* .box, */
   #front-kitara {
-    background-image: url("./media/bg6090p_JesseNabers-6.JPG");
-    background-size: cover;
-    background-repeat: no-repeat;
+    src: url("./media/bg6090p_JesseNabers-6.jpg");
+    /* background-image: url("./media/bg6090p_JesseNabers-6.jpg"); */
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
   }
 }
 
 @media only screen and (max-height: 300px) {
-  .box {
+  /* .box, */
+  #front-kitara {
     background-image: none;
   }
 }
