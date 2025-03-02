@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Kitara - Soittotekniikat</title>
+    <meta charset="utf-8" />
+
+    <!-- Katseluikkunan leveyden määritys: määritetään seuraamaan ruudun leveyttä. -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- JQuery CDN -->
+    <script
+      src="https://code.jquery.com/jquery-3.7.1.slim.min.js"
+      integrity="sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8="
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- Bootstrap CSS CDN -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+      crossorigin="anonymous"
+    />
+
+    <!-- Bootstrap JS CDN -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- Oma css-tiedosto -->
+    <link rel="stylesheet" href="tyyli.css" />
+  </head>
+
+  <!-- Verkkosivun sisältö-->
+  <body>
+    <div class="container-fluid" style="height: 100vh">
+      <!-- 1. rivi: yläpalkki -->
+      <!-- TODO: height yläpalkille -->
+      <div class="row top-header d-flex align-items-center">
+        <!-- vasen täyte -->
+        <div class="col-sm-2"></div>
+        <!-- otsikko-->
+        <div class="col-sm-8 align-middle">
+          <h1 id="page-title">SOITTOTEKNIIKAT</h1>
+        </div>
+        <!-- yhteystiedot-linkki -->
+        <div class="col-sm-2">
+          <a id="link-header" href="yhteystiedot.html">Yhteystiedot</a>
+        </div>
+      </div>
+      <!-- /1. rivi -->
+
+      <!-- 2. rivi: navigointi ja pääsisältö -->
+      <div class="row h-100 body-text">
+        <!-- Navigointipalkki -->
+        <div class="col-sm-2 navbar-bg">
+          <!-- Navigointipalkille taustaväri koko alueelle -->
+          <div>
+            <!-- <nav class="navbar navbar-expand-lg navbar-dark"> -->
+            <nav class="navbar navbar-expand-lg navbar-dark">
+              <button
+                class="navbar-toggler"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#nbContent"
+                aria-controls="nbContent"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+              >
+                <span class="navbar-toggler-icon"></span>
+              </button>
+
+              <!-- Navigointilinkit -->
+              <div class="collapse navbar-collapse" id="nbContent">
+                <!-- <ul class="navbar-nav mr-auto flex-column"> -->
+                <ul class="navbar-nav flex-column">
+                  <li class="nav-item">
+                    <a class="nav-link" type="button" href="index.html"
+                      >Kitara</a
+                    >
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" type="button" href="tyypit.html"
+                      >Kitaratyypit</a
+                    >
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" type="button" href=""
+                      >Soittotekniikat</a
+                    >
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" type="button" href="kappaleet.html"
+                      >Kitaramusiikkia</a
+                    >
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" type="button" href="yhteystiedot.html"
+                      >Yhteystiedot</a
+                    >
+                  </li>
+                </ul>
+              </div>
+              <!--
+              <h3 class="nav-button-line">Kitara</h3>
+            --></nav>
+          </div>
+        </div>
+        <!-- /Navigointipalkki -->
+
+        <!-- Pääsisältö -->
+        <div class="col-sm-10">
+          <!-- use css to insert the picture 
+          <img src="../bg6090p_JesseNabers-6.jpg" class="img-fluid" />
+          -->
+          <p>
+            <span class="ref-text">Tekstien lähde: Wikipedia</span>
+          </p>
+          <h2>Kitaransoittotekniikoita</h2>
+          <h3>Näppäily (kitara)</h3>
+
+          <p>
+            Näppäily (engl. fingerpicking, fingerstyle) on kitaran tai muun
+            kielisoittimen (kuten banjon tai basson) soittotekniikka, jossa
+            kieliä näppäillään sormenpäillä tai kynsillä. Näppäilytyyliä
+            käytetään laajalti esimerkiksi klassisen musiikin soittamiseen
+            kielisoittimilla. Myös monet jazz-kitaristit ovat käyttäneet
+            näppäilytekniikkaa, esimerkiksi Wes Montgomery, Joe Pass ja
+            myöhemmin englantilainen Martin Taylor. Rock-musiikissa näppäily on
+            harvinaisempaa kuin plektralla soittaminen, vaikka poikkeuksia toki
+            esiintyy (esimerkiksi Jeff Beck, Lindsey Buckingham ja Mark
+            Knopfler).
+          </p>
+          <a href="https://en.wikipedia.org/wiki/Fingerstyle_guitar">
+            <img
+              src="./media/link_6342.jpg"
+              width="200"
+              alt="Guitar played by fingerpicking"
+            /><br /><span class="ref-text"
+              >Kuva osoitteesta www.freepik.com</span
+            >
+          </a>
+          <h3>Erilaisia näppäilytyylejä</h3>
+
+          <p>
+            Näppäilytyylejä on monenlaisia. Kenties perinteisin lähestymistapa
+            näppäilyyn on laittaa näppäilykäsi kielten yläpuolelle lähelle
+            kitaran ääniaukkoa. Vaikka monet kitaransoittajat "nojaavat"
+            soittaessaan peukalolla johonkin kieleen, niin yleisesti ottaen
+            sormet koskettavat kieliä vain kun kieli laitetaan värähtelemään
+            äänen tuottamiseksi. Toinen tekniikka on asettaa sormet valmiiksi
+            kielille ennen niiden näppäämistä. Tällaista tekniikkaa käytetään
+            erityisesti arpeggioilla soitettaessa.
+          </p>
+          <p>
+            Monet soittajat tukevat soittaessaan pikkusormen tai nimettömän
+            kitaran kantta vasten. Yleensä näppäilysoitossa soitetaan peukalolla
+            bassokieliä (kitarassa E, A ja D) ja etusormella, keskisormella,
+            nimettömällä ja joskus myös pikkusormella muita kieliä.
+          </p>
+          <h4>Hybrid picking</h4>
+          <p>
+            Tämä näppäilytyyli on erityisesti sellaisten kitaristien suosiossa,
+            jotka soittavat vain harvoin näppäillen. Hybrid picking
+            -soittotekniikassa käytetään plektraa ja sormia samanaikaisesti.
+            Plektraa pidetään tavalliseen tapaan peukalon ja etusormen välissä
+            ja vapaiksi jäävät sormet käytetään näppäilyyn.
+          </p>
+          <p>
+            Koska hybrid picking on erityisen otollinen soittotekniikka niille
+            kitaristeille, jotka käyttävät plektraa, se on löytänyt tiensä
+            moniin musiikkityyleihin, jossa näppäilyä muuten käytetään hyvin
+            harvoin, muun muassa rockiin ja kitaristi Zakk Wylden myötä jopa
+            heavy metalliin. Monet nykypäivän kitaristit käyttävät toisinaan
+            hybrid picking -tekniikkaa. Ritchie Blackmore käytti sitä "Smoke on
+            the Water" -kappaleen kuuluisassa aloitusriffissä. Carl Verheyen,
+            Brett Garsed, Albert Lee ja Steve Trovato käyttävät tätä tekniikkaa
+            country- ja rockmusiikissa. Muita tunnettuja hybrid picking
+            -soittotekniikan käyttäjiä ovat muun muassa Gustavo Assis-Brasil,
+            Jimmy Page, Albert Lee, Eric Johnson, Wayne Krantz, Steve Trovato,
+            Carl Verheyen, Marshall Harrison ja Brett Garsed.
+          </p>
+          <h4>Pattern picking</h4>
+          <p>
+            Pattern picking on varsin yksinkertainen näppäilytyyli. Siinä oikea
+            käsi näppäilee kieliä tietyn "kaavan" mukaan samalla, kun vasen käsi
+            vaihtelee eri sointujen välillä. Tämän soittotekniikan uranuurtajana
+            pidetään amerikkalaista laulajaa, lauluntekijää ja kitaristia Merle
+            Travisia, jonka mukaan on nimetty yksi yleisimmistä
+            näppäilykaavoista, Travis picking:
+          </p>
+          <pre>
+            M I T M T I T   M I T M T I T
+            T               T
+          </pre>
+          <p>
+            Peukalo (T) soittaa bassosäveliä, kun taas etusormi (I) ja
+            keskisormi (M) vuorottelevat diskanttisävelten välillä, jotka
+            yleensä sijaitsevat eri kielillä.
+          </p>
+          <h4>Tremolo</h4>
+          <p>
+            Tremoloa käytetään monenlaisessa musiikissa: bluegrassissa, heavy
+            metallissa, flamencossa, klassisessa musiikissa ja turkkilaisessa
+            kansanmusiikissa. Tekniikkaa voi käyttää sekä plektralla
+            soitettaessa että näppäilysoitossa.
+          </p>
+          <p>
+            Tremololla tarkoitetaan yhden sävelen toistamista hyvin nopeasti.
+            Näppäilysoitossa tämä saavutetaan tyypillisesti käyttämällä kolmea
+            sormea: etusormea, keskisormea ja nimetöntä, jotka soittavat yhtä
+            säveltä vuorotellen niin, että nimetön aloittaa ja keski- ja
+            etusormi seuraavat perässä. Yleensä väliin soitetaan bassosävel
+            peukalolla.
+          </p>
+
+          <h3>Slide-kitara</h3>
+          <p>
+            Slide-kitaralla viitataan kitaransoittotyyliin, jossa kitaristi
+            pitää otelaudanpuoleisessa kädessään putkea (tai muuta esinettä),
+            joka määrää äänenkorkeuden, sen sijaan, että nuotti painettaisiin
+            otelaudalta sormella.
+          </p>
+
+          <h4>Soittotekniikka</h4>
+          <p>
+            Slide-kitaraa soittaessa kieliä ei paineta kohti otelautaa, vaan
+            putkea pidetään kevyesti kosketuksessa kieliin. Näin otelaudalta
+            löytyvät samat nuotit suunnilleen samoista kohdista kuin sormella
+            painettaessa, mutta liikuttamalla putkea pitkin otelautaa
+            sävelkorkeutta voi vaihtaa portaattomasti. Putkeen laitettava sormi
+            on useilla kitaristeilla nimetön, mutta käyttämällä pikkusormea jää
+            eniten tilaa muiden sormien käyttöön, jotka voivat soittaa säveliä
+            otelaudalta normaaliin tapaan.
+          </p>
+          <p>
+            Putkena käytetään nykyään useimmiten noin otelaudan leveyden
+            pituista metalliputkea, johon mahtuu sisälle yksi sormi (lukuun
+            ottamatta peukaloa). Ensimmäiset slide-soittajat käyttivät usein
+            metalliputken sijaan ennen vanhaan yleisesti saatavilla olleita
+            pieniä lääkepulloja tai juomapullon katkaistua kaulaa. Englannin
+            kielessä käytetäänkin lasiputkella soittamisesta usein sanaa
+            "bottleneck guitar" (pullonkaulakitara). Myös esimerkiksi veitsiä ja
+            sormuksia on käytetty putken sijasta. Eri materiaalista tehdyt
+            esineet tuottavat hieman erilaisia äänenvärejä. Kielet viritetään
+            usein slidea käytettäessä niin sanottuun avoimeen viritykseen.
+            Tällöin avoimet kielet antavat jonkin täyssoinnun (esimerkiksi
+            E-duurisoinnun) ja näin slide-putken avulla voidaan liu'uttaa
+            kokonaisia sointuja ylös alas otelautaa. Jotkut soittajat käyttävät
+            omia virityksiään. Monet slide-soittajat istuvat soittaessaan ja
+            pitävät kitaraansa kanteleen tapaan vaakatasossa reisiensä päällä.
+            Tätä soittotapaa kutsutaan englannin kielessä nimityksellä "steel
+            guitar" tai "across knees". Tällöin sliden ei tarvitse välttämättä
+            olla muodoltaan putki, vaan esimerkiksi juuri veitsi tai
+            metallitanko käy yhtä hyvin. Vibrato tehdään sliden kanssa
+            useimmiten värisyttämällä putkea kielten suuntaisesti tai joidenkin
+            soittajien kohdalla myös pystysuunnassa, jolloin myös soitettavan
+            kielen viereiset kielet värisevät hieman. Sähkökitaralla soittaessa
+            jälkimmäinen tapa lisää äänen säröytymistä kevyesti.
+          </p>
+          <h4>Blues</h4>
+          <p>
+            Slide-kitaran soitto juontaa juurensa Yhdysvaltojen eteläosien
+            maaseudun blues-musiikista. Ulkoisesti slide-soitto oli pyrkimys
+            jäljitellä ihmisäänen liukuvaa, portaatonta sointia. Säveltäjä W. C.
+            Handy oli nähnyt slide-tyyliin veitsellä soittavan blueskitaristin
+            jo vuonna 1903. Toista maailmansotaa edeltävän delta bluesin
+            kuuluisat nimet, kuten Son House ja Robert Johnson, soittivat usein
+            slidella. Blind Willie Johnson on tehnyt joitain tuon ajan
+            kuuluisimmista slide-levytyksistä, mutta ei ole tiedossa, minkä
+            esineen avulla hän soitti. Myöhemmin Muddy Waters ja Elmore James
+            toivat sliden käytön sähköiseen bluesiin 1940-luvun lopulla. Monet
+            tunnetuimmista sähköisen bluesin kitaristeista eivät tosin
+            soittaneet slidella lainkaan.
+          </p>
+          <p>
+            Nykyisistä muusikoista Ry Cooder ja Mississippi Fred McDowellin
+            oppilas Bonnie Raitt ovat kuuluisia slide-kitaristeja. Uusi nimi oli
+            myös akustista slide-kitaraa soittanut Kelly Joe Phelps, joka
+            levytti 1990-luvun lopulla kolme albumia. Niistä viimeinen oli
+            vuonna 1999 levytetty Shine-Eyed Mr Zen.[1]
+          </p>
+          <h4>Rock</h4>
+          <p>
+            Bluesista vaikutteensa saaneet rock-kitaristit käyttävät usein
+            slidea esikuviensa innoittamina. Erityisesti southern rock -tyyliin
+            slide-kitara kuuluu lähes erottamattomasti. Southern rockin
+            kitarasoundin luojaksikin mainittua Duane Allmania pidetään usein
+            sähköisen slide-kitaroinnin keskeisimpänä kehittäjänä Elmore Jamesin
+            jälkeen. Hän soitti yhtyeissä Allman Brothers Band ja Derek and the
+            Dominos, mutta monet hänen kuuluisimmista kitaraosuuksistaan on
+            levytetty toisten artistien, muiden muassa Wilson Pickettin ja
+            Aretha Franklinin, levyille hänen työskennellessään studiomuusikkona
+            Muscle Shoalsilla Alabamassa 1960-luvulla. Muita esimerkkejä sliden
+            käytöstä rockissa ovat Lynyrd Skynyrd, The Doors, ZZ Top ja Led
+            Zeppelin ja nykyään ehkä merkittävimpinä Gov't Mule sekä Derek
+            Trucks Band. Jotkut soittajat ovat käyttäneet slideä myös
+            bassokitaran kanssa.
+          </p>
+          <p>
+            Bluesin ja blues-rockin lisäksi slideä käytetään paljon
+            country-musiikissa sekä havaijilaisessa musiikissa.
+          </p>
+          <p>Kuuluisia slide-kitaralla esitettyjä levytyksiä</p>
+          <ul>
+            <li>
+              Allman Brothers Band (Duane Allman) – "Statesboro Blues", "Done
+              Somebody Wrong"
+            </li>
+            <li>Beatles – "Old Brown Shoe", "Run For Your Life"</li>
+            <li>Son House – "Pearline", "Death Letter"</li>
+            <li>
+              Elmore James – "The Sky is Crying", "Dust my Broom", "Shake your
+              moneymaker"
+            </li>
+            <li>
+              Blind Willie Johnson – "It's Nobody's Fault but Mine", "Dark was
+              the Night"
+            </li>
+            <li>Robert Johnson – "Cross Road Blues", "Terraplane Blues"</li>
+            <li>Volbeat – "7 Shots"</li>
+            <li>
+              Led Zeppelin – "You Shook Me" (myös "Stairway To Heavenin"
+              soolossa on slide-kitaraa)
+            </li>
+            <li>Lynyrd Skynyrd – "Free Bird"</li>
+            <li>
+              Muddy Waters – "I Can't Be Satisfied", "I Feel Like Going Home",
+              "Rollin' and Tumblin'"
+            </li>
+            <li>Mötley Crue – "Primal Scream"</li>
+            <li>Hound Dog Taylor – "Give Me Back My Wig"</li>
+            <li>
+              Jimi Hendrixin – kuuluisassa "All Along the Watchtower" -kappaleen
+              soolossa käytetään myös slideä (tupakansytytintä putken sijaan).
+              Live-esiintymisissä Hendrix käytti joskus laulumikrofonin tankoa
+              sliden tavoin liikuttamalla kitaran otelautaa sitä vasten.
+            </li>
+          </ul>
+          <a href="www.freepik.com">
+            <span class="ref-text align-right"
+              >Taustakuva Designed by Freepik: www.freepik.com</span
+            ></a
+          >
+        </div>
+        <!-- /Pääsisältö -->
+      </div>
+      <!-- /2. rivi -->
+    </div>
+  </body>
+</html>

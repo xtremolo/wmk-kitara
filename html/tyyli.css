@@ -2,8 +2,14 @@
 
 body {
   background-color: #888888;
+  background-image: url("./media/bg100p-1920_950-darken75.jpg");
+  background-size: 100% 100%;
   height: 100%;
-  font-style: italic;
+  font-style: normal;
+}
+
+.body-text {
+  color: white;
 }
 
 .top-header {
@@ -27,6 +33,11 @@ hr {
   border-bottom: 25px solid #802a00;
 }
 
+#page-title {
+  margin: auto;
+  margin-top: auto;
+}
+
 .box {
   height: 80%;
 }
@@ -34,6 +45,7 @@ hr {
 .navbar-bg,
 .navbar {
   background-color: #802a00;
+  height: auto;
 }
 
 .nav-item {
@@ -46,7 +58,39 @@ hr {
   font-size: larger;
 }
 
-/* korrekti taustakuva, bg6090p muuten vaan sen päälle index.html:ään */
+.ref-text {
+  font-style: italic;
+  color: bisque;
+}
+
+.img-text {
+  color: bisque;
+}
+
+a {
+  color: bisque;
+}
+
+/* linkin väri musta paremman kontrastin vuoksi
+   ja alleviivattu, tuttu sana helpottaa linkiksi tunnistamista */
+#link-header,
+#link-header:link,
+#link-header:visited {
+  /* font-style: normal;
+     text-decoration-line: underline; */
+  color: black;
+}
+
+/* #link-header:visited {
+  text-decoration-line: underline;
+  color: black;
+} */
+
+.align-right {
+  float: right;
+}
+
+/* TODO: korrekti taustakuva, bg6090p muuten vaan sen päälle index.html:ään */
 @media only screen and (max-width: 600px) {
   /* .box: index.html */
   .box {
@@ -55,9 +99,10 @@ hr {
 }
 
 @media only screen and (min-width: 600px) {
-  .box {
+  /*.box,*/
+  #front-kitara {
     background-image: url("./media/bg6090p_JesseNabers-6.JPG");
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
   }
 }

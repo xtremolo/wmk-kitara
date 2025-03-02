@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Kitara - Kappaleet</title>
+    <meta charset="utf-8" />
+
+    <!-- Katseluikkunan leveyden määritys: määritetään seuraamaan ruudun leveyttä. -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- JQuery CDN -->
+    <script
+      src="https://code.jquery.com/jquery-3.7.1.slim.min.js"
+      integrity="sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8="
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- Bootstrap CSS CDN -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+      crossorigin="anonymous"
+    />
+
+    <!-- Bootstrap JS CDN -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- Oma css-tiedosto -->
+    <link rel="stylesheet" href="tyyli.css" />
+  </head>
+
+  <!-- Verkkosivun sisältö-->
+  <body>
+    <div class="container-fluid" style="height: 100vh">
+      <!-- 1. rivi: yläpalkki -->
+      <!-- TODO: height yläpalkille -->
+      <div class="row top-header d-flex align-items-center">
+        <!-- vasen täyte -->
+        <div class="col-sm-2"></div>
+        <!-- otsikko-->
+        <div class="col-sm-8 align-middle">
+          <h1 id="page-title">KITARAMUSIIKKIA</h1>
+        </div>
+        <!-- yhteystiedot-linkki -->
+        <div class="col-sm-2">
+          <a id="link-header" href="yhteystiedot.html">Yhteystiedot</a>
+        </div>
+      </div>
+      <!-- /1. rivi -->
+
+      <!-- 2. rivi: navigointi ja pääsisältö -->
+      <div class="row h-100 body-text">
+        <!-- Navigointipalkki -->
+        <div class="col-sm-2 navbar-bg">
+          <!-- Navigointipalkille taustaväri koko alueelle -->
+          <div>
+            <!-- <nav class="navbar navbar-expand-lg navbar-dark"> -->
+            <nav class="navbar navbar-expand-lg navbar-dark">
+              <button
+                class="navbar-toggler"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#nbContent"
+                aria-controls="nbContent"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+              >
+                <span class="navbar-toggler-icon"></span>
+              </button>
+
+              <!-- Navigointilinkit -->
+              <div class="collapse navbar-collapse" id="nbContent">
+                <!-- <ul class="navbar-nav mr-auto flex-column"> -->
+                <ul class="navbar-nav flex-column">
+                  <li class="nav-item">
+                    <a class="nav-link" type="button" href="index.html"
+                      >Kitara</a
+                    >
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" type="button" href="tyypit.html"
+                      >Kitaratyypit</a
+                    >
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" type="button" href="tekniikat.html"
+                      >Soittotekniikat</a
+                    >
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" type="button" href=""
+                      >Kitaramusiikkia</a
+                    >
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" type="button" href="yhteystiedot.html"
+                      >Yhteystiedot</a
+                    >
+                  </li>
+                </ul>
+              </div>
+            </nav>
+          </div>
+        </div>
+        <!-- /Navigointipalkki -->
+
+        <!-- Pääsisältö -->
+        <div class="col-sm-10">
+          <!-- use css to insert the picture 
+          <img src="../bg6090p_JesseNabers-6.jpg" class="img-fluid" />
+          -->
+          <br />
+          <h2>Kitaramusiikkia</h2>
+          <p>
+            Tältä sivulta löydät joitain esimerkkejä erilaisista kitaralla
+            soitetuista kappaleista. Ensimmäiset sävellykset ovat klassista
+            musiikkia, yksi rock-kappale 1970-luvulta ja viimeisen (albumin)
+            laji on heavy metal, 1990-luvulta.
+          </p>
+          <p>
+            <span class="ref-text">Tekstien lähde: Wikipedia</span>
+          </p>
+          <h3>Pachelbel - Canon in D major, P. 37 (Guitar)</h3>
+          <!-- audiosoitin -->
+          <div class="align-right">
+            <audio controls>
+              <source
+                src="./media/Pachelbel_-_Canon_in_D_major,_P._37_(Guitar).ogg"
+                type="audio/ogg"
+              />
+            </audio>
+          </div>
+          <p>
+            Pachelbelin kaanoni (tunnetaan myös nimellä Canon D, P 37) on
+            saksalaisen barokkisäveltäjän Johann Pachelbelin säestetty kaanoni.
+            Canon pisteytettiin alun perin kolmelle viululle ja basso
+            continuolle, ja se yhdistettiin giguen kanssa, joka tunnetaan
+            nimellä Canon ja Gigue 3 viululle ja basso continuolle. Molemmat
+            osat ovat D-duurin sävelsävyssä. Teos on rakennettu todelliseksi
+            kaanoniksi unisonissa kolmessa osassa, ja neljäs osa on kauttaaltaan
+            maabasso. Sen enempää päivämäärää kuin sen sävellysolosuhteitakaan
+            ei tunneta (ehdotetut päivämäärät vaihtelevat vuosilta 1680-1706),
+            ja vanhin säilynyt käsikirjoitus kappaleesta on vuodelta 1838-1842.
+          </p>
+          <br />
+          <h3>Bouree in Em - J.S. Bach</h3>
+          <div class="align-right">
+            <audio controls>
+              <source
+                src="./media/Johann_Sebastian_Bach_-_Suite_BWV_996,_E_Minor_-_V_Bourrée.ogg"
+                type="audio/ogg"
+              />
+            </audio>
+          </div>
+          <p>
+            Bourrée e-molli on suosittu luuttupala, viides osa sarjasta e-molli
+            BWV 996 (BC L166), jonka Johann Sebastian Bachin on kirjoittanut
+            vuosina 1708-1717. Teos on kiistatta yksi kuuluisimmista kitaristien
+            keskuudessa.
+          </p>
+          <h3>Sweet Home Alabama - Lynyrd Skynyrd</h3>
+          <p>
+            ”Sweet Home Alabama” on kappale Lynyrd Skynyrdin toiselta levyltä
+            Second Helping (1974) ja on yhtyeen tunnetuimpia hittejä. Kappale on
+            esiintynyt myös monissa elokuvissa, kuten esimerkiksi Texasin
+            moottorisahamurhat, Con Air – lento vapauteen, Joe Dirt, Forrest
+            Gump, Purppuravyöhyke ja Sahara. Kappale löytyy myös videopeleistä
+            Guitar Hero World Tour ja Singstar Legendat.
+          </p>
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/RrmWFjnAP2E?si=A_Q_dUaq-N2J2A6s"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen
+          ></iframe>
+          <h3>The Great Southern Trendkill - Pantera</h3>
+          <p>
+            The Great Southern Trendkill on amerikkalaisen heavy metal -yhtye
+            Panteran kahdeksas studioalbumi, joka julkaistiin 7. toukokuuta 1996
+            Elektra Recordsin ja East West Recordsin kautta. Se saavutti
+            Billboard 200 -listan sijan 4 ja pysyi listalla 16 viikkoa. Albumin
+            tuotannon aikana Phil Anselmo äänitti laulun yksin Trent Reznorin
+            Nothing Studiosilla New Orleansissa, kun taas Dimebag Darrell, Rex
+            Brown ja Vinnie Paul äänittivät musiikin Chasin Jason Studiosilla
+            Dalworthington Gardensissa. Tämä olisi Panteran viimeinen
+            studioalbumi, jonka on tuottanut Terry Date, joka oli työskennellyt
+            yhtyeen kanssa vuodesta Cowboys from Hell (1990).
+          </p>
+          <p>
+            <!--
+            <a
+              href="https://www.youtube.com/watch?v=3W0Gh-rFg70"
+              style="color: bisque"
+              >Linkki Youtubeen</a
+            >-->
+          </p>
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/3W0Gh-rFg70?si=MVjGhzSdu1Jnt3Eg"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen
+          ></iframe>
+          <a href="www.freepik.com">
+            <span class="ref-text align-right"
+              >Taustakuva Designed by Freepik: www.freepik.com</span
+            ></a
+          >
+        </div>
+        <!-- /Pääsisältö -->
+      </div>
+      <!-- /2. rivi -->
+    </div>
+  </body>
+</html>

@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Kitara - Yhteystiedot</title>
+    <meta charset="utf-8" />
+
+    <!-- Katseluikkunan leveyden määritys: määritetään seuraamaan ruudun leveyttä. -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- JQuery CDN -->
+    <script
+      src="https://code.jquery.com/jquery-3.7.1.slim.min.js"
+      integrity="sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8="
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- Bootstrap CSS CDN -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+      crossorigin="anonymous"
+    />
+
+    <!-- Bootstrap JS CDN -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- Oma css-tiedosto -->
+    <link rel="stylesheet" href="tyyli.css" />
+  </head>
+
+  <!-- Verkkosivun sisältö-->
+  <body>
+    <div class="container-fluid" style="height: 100vh">
+      <!-- 1. rivi: yläpalkki -->
+      <!-- TODO: height yläpalkille -->
+      <div class="row top-header d-flex align-items-center">
+        <!-- vasen täyte -->
+        <div class="col-sm-2"></div>
+        <!-- otsikko-->
+        <div class="col-sm-8 align-middle">
+          <h1 id="page-title">YHTEYSTIEDOT</h1>
+        </div>
+        <!-- yhteystiedot-linkki -->
+        <div class="col-sm-2">
+          <a id="link-header" href="yhteystiedot.html">Yhteystiedot</a>
+        </div>
+      </div>
+      <!-- /1. rivi -->
+
+      <!-- 2. rivi: navigointi ja pääsisältö -->
+      <div class="row h-100 body-text">
+        <!-- Navigointipalkki -->
+        <div class="col-sm-2 navbar-bg">
+          <!-- Navigointipalkille taustaväri koko alueelle -->
+          <div>
+            <!-- <nav class="navbar navbar-expand-lg navbar-dark"> -->
+            <nav class="navbar navbar-expand-lg navbar-dark">
+              <button
+                class="navbar-toggler"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#nbContent"
+                aria-controls="nbContent"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+              >
+                <span class="navbar-toggler-icon"></span>
+              </button>
+
+              <!-- Navigointilinkit -->
+              <div class="collapse navbar-collapse" id="nbContent">
+                <!-- <ul class="navbar-nav mr-auto flex-column"> -->
+                <ul class="navbar-nav flex-column">
+                  <li class="nav-item">
+                    <a class="nav-link" type="button" href="index.html"
+                      >Kitara</a
+                    >
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" type="button" href="tyypit.html"
+                      >Kitaratyypit</a
+                    >
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" type="button" href="tekniikat.html"
+                      >Soittotekniikat</a
+                    >
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" type="button" href="kappaleet.html"
+                      >Kitaramusiikkia</a
+                    >
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" type="button" href="">Yhteystiedot</a>
+                  </li>
+                </ul>
+              </div>
+              <!--
+              <h3 class="nav-button-line">Kitara</h3>
+            --></nav>
+          </div>
+        </div>
+        <!-- /Navigointipalkki -->
+
+        <!-- Pääsisältö -->
+        <div class="col-sm-10">
+          <!-- use css to insert the picture 
+          <img src="../bg6090p_JesseNabers-6.jpg" class="img-fluid" />
+          -->
+          <br />
+          <h2>Yhteystiedot</h2>
+          <p>
+            Sauli Salamasormi<br />
+            email: sale@salama.fi<br />
+            puh: 000 000 0000000000001<br />
+            osoite: Vihreä Niitty 13 X 74 99199 Vihermua
+          </p>
+          <a href="www.freepik.com">
+            <span class="ref-text align-right"
+              >Taustakuva Designed by Freepik: www.freepik.com</span
+            ></a
+          >
+        </div>
+        <!-- /Pääsisältö -->
+      </div>
+      <!-- /2. rivi -->
+    </div>
+  </body>
+</html>

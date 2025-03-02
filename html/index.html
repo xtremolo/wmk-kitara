@@ -36,20 +36,24 @@
   <!-- Verkkosivun sisältö-->
   <body>
     <div class="container-fluid" style="height: 100vh">
-      <!-- 1. rivi -->
+      <!-- 1. rivi: yläpalkki -->
       <!-- TODO: height yläpalkille -->
-      <div class="row top-header">
+      <div class="row top-header d-flex align-items-center">
         <!-- vasen täyte -->
-        <div class="col-sm-3"></div>
+        <div class="col-sm-2"></div>
         <!-- otsikko-->
-        <div class="col-sm-9">
-          <h1>KITARA</h1>
+        <div class="col-sm-8 align-middle">
+          <h1 id="page-title">KITARA</h1>
+        </div>
+        <!-- yhteystiedot-linkki -->
+        <div class="col-sm-2">
+          <a id="link-header" href="yhteystiedot.html">Yhteystiedot</a>
         </div>
       </div>
       <!-- /1. rivi -->
 
-      <!-- 2. rivi -->
-      <div class="row h-100">
+      <!-- 2. rivi: navigointi ja pääsisältö -->
+      <div class="row h-100 body-text">
         <!-- Navigointipalkki -->
         <div class="col-sm-2 navbar-bg">
           <!-- Navigointipalkille taustaväri koko alueelle -->
@@ -90,20 +94,148 @@
                       >Kitaramusiikkia</a
                     >
                   </li>
+                  <li class="nav-item">
+                    <a class="nav-link" type="button" href="yhteystiedot.html"
+                      >Yhteystiedot</a
+                    >
+                  </li>
                 </ul>
               </div>
-              <!--
-              <h3 class="nav-button-line">Kitara</h3>
-            --></nav>
+            </nav>
           </div>
         </div>
         <!-- /Navigointipalkki -->
 
         <!-- Pääsisältö -->
-        <div class="col-sm-10 box img-fluid">
+        <div class="col-sm-10">
           <!-- use css to insert the picture 
           <img src="../bg6090p_JesseNabers-6.jpg" class="img-fluid" />
           -->
+          <div class="box img-fluid" id="front-kitara"></div>
+          <a
+            title="Salvador Calyso, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons"
+            href="https://commons.wikimedia.org/wiki/File:JesseNabers-6.JPG"
+          >
+            <span class="img-text">Kuva: Salvador Calyso, CC BY-SA 3.0</span></a
+          ><br /><br />
+          <p>
+            <!-- Tekstisisältö ison kuvan jälkeen -->
+            <span class="ref-text">Tekstin lähde: Wikipedia</span>
+          </p>
+          <h2>Yleistä</h2>
+          <p>
+            Kitara on kielisoitin, jota soitetaan näppäilemällä kieliä, joiden
+            ääntä akustisessa kitarassa vahvistaa kaikupohjana toimiva runko ja
+            sähkökitarassa vahvistin. Kieliä on yleensä kuusi, ne on viritetty
+            soimaan eri taajuudella, ja ne ovat tavallisimmin terästä tai
+            nailonia. Soittaja voi näppäillä kieliä esimerkiksi sormillaan tai
+            plektralla. Äänen korkeus riippuu paitsi kielestä, myös siitä, miltä
+            kohdalta soittaja painaa kieltä otelautaa vasten. Soinnut saadaan
+            aikaan soittamalla kerrallaan useampaa kuin kahta eri taajuudella
+            soivaa kieltä. Kitara on pääsoitin monessa musiikkityylissä.
+          </p>
+          <h2>Historia</h2>
+          <p>
+            Nykykitaraa muistuttavat soittimet ovat olleet suosittuja jo 5 000
+            vuoden ajan, ehkä kauemminkin. Kitara polveutunee muinaisessa
+            Keski-Aasiassa käytetyistä soittimista, joista käytettiin nimeä
+            cithara. Susan kaupungista Iranista on löydetty patsaita ja
+            veistoksia, joissa esiintyy kitaran kaltaisia soittimia. Sana kitara
+            juontuu espanjan kielen sanasta guitarra, tämä puolestaan arabian
+            sanasta qīṯārah, tämä aramean sanasta qipārā, joka tulee kreikan
+            kielen sanasta kithara (κιθάρα).[1] Sana on todennäköisesti
+            yhdistynyt sanskritin sanasta sangeet, joka tarkoittaa musiikkia,
+            sekä persian kielen sanasta tar, joka tarkoittaa kieltä.
+          </p>
+          <p>
+            Arabian kielen sana qīṯārah tarkoittaa luutun kaltaisia soittimia,
+            jotka edelsivät nykyaikaista länsimaista kitaraa. Kun maurit toivat
+            Iberiaan kitaroita, otettiin espanjan kielen sana guitarra
+            käyttöön.[2]
+          </p>
+          <p>
+            Espanjalainen vihuela on todennäköisesti varhaisen kitaran ja
+            nykyisen kitaran välimuoto. Vihuelan viritys on samankaltainen kuin
+            luutun, ja sen pienen rungon muoto muistuttaa nykyistä kitaraa.
+            Vihuelan muotoa on kuitenkin ehkä vain pyritty eriyttämään, niin
+            että eurooppalainen luuttu ei näyttäisi maurilaiselta
+            ud-soittimelta. Vihuelaa oli kahdenlaista: vihuela de arco (jousella
+            soitettava sellon sukulainen) ja vihuela de mano, josta myöhemmin
+            kehittyi kitara.
+          </p>
+          <p>
+            Varhaisissa kitaroissa oli useimmiten kaksoiskielet, eli yhtä ääntä
+            varten oli kaksi kieltä. Kielien määrä ja viritys vaihtelivat
+            suuresti ennen kuin ne vakiintuivat nykyiseen kuuteen yksinäiseen
+            kieleen. Ensimmäisen kuusikielisen kitaran rakensi vuonna 1779
+            Gaetano Vinaccia Napolissa, Italiassa. Vinaccia-suvun tiedetään myös
+            kehittäneen mandoliinin.
+          </p>
+          <p>
+            George Beauchamp patentoi sähkökitaran vuonna 1936. Hän oli myös
+            mukana perustamassa Rickenbacker-yhtiötä, joka on vanhimpia
+            sähkökitaranvalmistajia. Kuitenkin vasta 1940-luvun lopulla
+            perustettu Danelectro valmisti sähkökitaroita suurelle
+            asiakaskunnalle.
+          </p>
+          <p>
+            Leo Fender ja Les Paul keksivät 1940-luvulla itsenäisesti
+            lankkusähkökitaran. Molemmat huomasivat, että jos mikrofonit
+            kiinnitetään kiinteään lankkuun eikä kaikukoppaan, saadaan äänen
+            kiertoilmiö eliminoitua. Leo Fender suunnitteli Fender Telecasterin
+            ja Fender Stratocasterin, kun taas Gibson Les Paul on Les Paulin
+            suunnittelema. Kaikki kolme ovat sähkökitaran klassikkomalleja.
+          </p>
+          <p>
+            Kitaroita käytetään nykyisin monissa eri musiikkityyleissä.
+            Yleisesti kitara tunnetaan taidemusiikissa sooloinstrumenttina ja
+            pääinstrumenttina blues-, jazz-, rock- ja metallimusiikissa.
+          </p>
+          <p>
+            Kitarasta on 1900-luvun kuluessa tullut yksi suosituimmista
+            soittimista, koska sen alkeet on yleisesti ottaen helppo opetella.
+            Toisaalta taas kitara on hyvin monipuolinen soitin jonka soittamisen
+            haasteellisuutta on kehitetty erittäin pitkälle. Kitaroita on myös
+            bassoversioina.
+          </p>
+          <h2>Toiminta</h2>
+          <p>
+            Kitaran tärkeimmät osat ovat runko, kaula ja kielet. Kaulan
+            etupuolelle on kiinnitetty otelauta ja kielet ovat sen suuntaiset.
+            Painettaessa kieliä otelautaa vasten kielen värähtelevä osuus
+            lyhenee ja näin värähtelytaajuus muuttuu. Yleisesti kitaristit
+            käyttävät yhtä kättä kielen soittamiseen (näppäilemiseen) ja toista
+            kättä käytetään painamaan kieltä otelautaa vasten. Kieliä voidaan
+            näppäillä sormin, plektralla, soittolehdellä ja jopa jaloilla, kuten
+            esimerkiksi Mark Goffeney tekee. Jos näpäytetään yhtä kieltä
+            kerrallaan, syntyvää ääntä kutsutaan säveleksi. Jos useampi kuin
+            kaksi kieltä soi kerrallaan eri taajuuksilla, kyseessä on sointu.
+          </p>
+          <p>
+            Kitaran kieli tuottaa värähdellessään ääntä. Jotta syntynyt ääni
+            olisi riittävän voimakas, ääntä vahvistetaan – joko akustisesti tai
+            sähköisesti. Kitarat jaetaan tällä perusteella kahteen ryhmään,
+            akustisiin kitaroihin ja sähkökitaroihin.
+          </p>
+          <p>
+            Akustisissa kitaroissa kielen värähtely johdetaan tallan
+            välityksellä kitaran kanteen. Kannen suuri pinta-ala liikuttaa ilmaa
+            tehokkaasti, jolloin kielten värähtelystä syntyy voimakkaampi ääni.
+            Kitaran runko on rakenteeltaan ontto ja se toimii kaikupohjana.
+            Kaikukopan resonanssitaajuus on viritetty vastaamaan kitaran kielten
+            värähtelyä, useimmiten välille Fis–A.
+          </p>
+          <p>
+            Sähkökitaroissa kielten värähtely muutetaan sähkösignaaliksi
+            mikrofonilla. Sähkösignaali johdetaan vahvistimeen, jossa signaali
+            vahvistetaan, ja sitten kaiuttimeen, joka muuttaa sähkösignaalin
+            ääniaalloiksi.
+          </p>
+          <a href="www.freepik.com">
+            <span class="ref-text align-right"
+              >Taustakuva Designed by Freepik: www.freepik.com</span
+            ></a
+          >
         </div>
         <!-- /Pääsisältö -->
       </div>
